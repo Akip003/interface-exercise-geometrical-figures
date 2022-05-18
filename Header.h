@@ -40,6 +40,7 @@ public:
 	void show();
 };
 class Ostroslup : public Bryla
+	//ostros³up prawid³owy czworok¹tny
 {
 private:
 	double a;

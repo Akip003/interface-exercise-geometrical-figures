@@ -11,8 +11,8 @@ void Kula::get_params()
 }
 double Kula::krawedz()
 {
-	double wynik = 2 * pi * r;
-	return wynik;
+	std::cout << "kula nie posiada krawedzi";
+	return 0;
 }
 double Kula::pole()
 {
